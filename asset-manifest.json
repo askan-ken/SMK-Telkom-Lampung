@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/SMK-Telkom-Lampung/static/css/main.59d783ee.css",
-    "main.js": "/SMK-Telkom-Lampung/static/js/main.faceeb8a.js",
+    "main.css": "/SMK-Telkom-Lampung/static/css/main.115a63ec.css",
+    "main.js": "/SMK-Telkom-Lampung/static/js/main.053bb840.js",
     "index.html": "/SMK-Telkom-Lampung/index.html",
     "static/media/icons8-pinterest.svg": "/SMK-Telkom-Lampung/static/media/icons8-pinterest.62252fc98a206b1563d995f2b0c17471.svg",
     "static/media/icons8-twitter.svg": "/SMK-Telkom-Lampung/static/media/icons8-twitter.aed0a818d505afe24472d53e4c17fece.svg",
     "static/media/icons8-facebook.svg": "/SMK-Telkom-Lampung/static/media/icons8-facebook.8f318b7da5b127462316bc915f35b2e5.svg",
     "static/media/icons8-youtube.svg": "/SMK-Telkom-Lampung/static/media/icons8-youtube.9a8cd52b6c4c3003d2b0ed0f5c8fc0de.svg",
-    "main.59d783ee.css.map": "/SMK-Telkom-Lampung/static/css/main.59d783ee.css.map",
-    "main.faceeb8a.js.map": "/SMK-Telkom-Lampung/static/js/main.faceeb8a.js.map"
+    "main.115a63ec.css.map": "/SMK-Telkom-Lampung/static/css/main.115a63ec.css.map",
+    "main.053bb840.js.map": "/SMK-Telkom-Lampung/static/js/main.053bb840.js.map"
   },
   "entrypoints": [
-    "static/css/main.59d783ee.css",
-    "static/js/main.faceeb8a.js"
+    "static/css/main.115a63ec.css",
+    "static/js/main.053bb840.js"
   ]
 }
